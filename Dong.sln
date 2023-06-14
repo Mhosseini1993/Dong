@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dong", "Dong\Dong.csproj", "{F391C42F-06AB-4F24-B6C9-F8D5BF48A7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{35E0C471-6C58-4CF1-BDB5-7FA4A850ABD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F391C42F-06AB-4F24-B6C9-F8D5BF48A7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F391C42F-06AB-4F24-B6C9-F8D5BF48A7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F391C42F-06AB-4F24-B6C9-F8D5BF48A7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F391C42F-06AB-4F24-B6C9-F8D5BF48A7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E0C471-6C58-4CF1-BDB5-7FA4A850ABD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E0C471-6C58-4CF1-BDB5-7FA4A850ABD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E0C471-6C58-4CF1-BDB5-7FA4A850ABD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E0C471-6C58-4CF1-BDB5-7FA4A850ABD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB55474-DC4B-40C4-AC72-F4F71BB3A6BF}
+	EndGlobalSection
+EndGlobal
